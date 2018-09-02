@@ -1,0 +1,9 @@
+cd/
+cd Workspace
+dir
+javac SwapTwoNumbers.java
+java SwapTwoNumbers
+
+Package:
+javac com\company\Scorpion.java
+java com.company.Main
